@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+$backgroundColor: #363636;
+$fontColor: #d2d2d2;
+
+body, html {
+  font-family: Arial, sans serif;
+  color: $fontColor;
+  background-color: $backgroundColor;
+  margin: 0;
+  padding: 0;
+}
